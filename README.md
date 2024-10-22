@@ -2,6 +2,6 @@
 Repository to store old, unused code.
 
 ## Plugins
-This repo currently houses two plugins.
+This repo currently houses the following plugins.
 - UnitedBrands
 - UnitedWars
